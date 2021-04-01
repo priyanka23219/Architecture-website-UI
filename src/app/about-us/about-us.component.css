@@ -1,0 +1,22 @@
+#blur
+{
+
+    height: 500px;
+width:100%;
+padding-top: 100px;
+background-attachment: fixed;
+background-position: center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#btn1
+{
+    background-color:transparent;
+    border: solid 0.5px lightgray;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}

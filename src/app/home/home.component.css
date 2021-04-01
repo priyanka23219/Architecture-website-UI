@@ -1,0 +1,56 @@
+#slider
+{
+  height:450px;
+  width:100%
+}
+
+#button4 {
+    background-color:transparent;
+    color: white;
+    border: 2px solid gray;
+  }
+  #button5 {
+    background-color:transparent;
+    color: white;
+    border: 2px solid gray;
+  }
+  #button6 {
+    background-color:transparent;
+    color: white;
+    border: 2px solid gray;
+  }
+ 
+ #About{
+  background-color:black;
+    border: solid 2px black;
+  color: white;
+  
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+
+ }
+#StartNow
+{
+  background-color: transparent;
+  border: none;
+  color: white;
+  
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+
+}
+/* #interior_bg {
+    background: url('interior_bg.jpg'); 
+    
+    height: 500px; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover; 
+  } */
+
+  /* jquery code */
+  
